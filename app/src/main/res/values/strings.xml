@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestAndroid_</string>
+    <string name="tvNoRecordsFound">No Records Found_</string>
+    <string name="tvFullName">Name</string>
+    <string name="btnDML">Save</string>
+    <string name="etLastName">Last Name</string>
+    <string name="etFirstName">First Name</string>
+    <string name="btnAddNewRecord">ADD</string>
+</resources>
